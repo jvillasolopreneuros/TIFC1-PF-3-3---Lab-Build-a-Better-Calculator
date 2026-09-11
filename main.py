@@ -15,4 +15,4 @@ def isitaninteger(num):
 print(addmultiplenumbers([2, 4, 6]))
 print(multiplymultiplenumbers([2, 3, 4]))
 print(isiteven(4))
-print(isitaninteger(5))
+print(isitaninteger(6))
